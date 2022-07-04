@@ -16,7 +16,7 @@ export const Title = styled.h1 `
 export default function AppName() {
   return (
     <Title>
-      Override
+     AG-GRID
     </Title>
   );
 }
