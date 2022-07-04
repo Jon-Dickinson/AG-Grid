@@ -1,0 +1,39 @@
+  <svg
+  xmlns="http://www.w3.org/2000/svg"
+  version="1.1"
+  width="46px"
+  height="46px"
+  viewBox="-0.5 -0.5 436 437"
+>
+  <g>
+    <rect
+      x="0"
+      y="0"
+      width="435"
+      height="435"
+      fill="none"
+      stroke="none"
+      pointer-events="all"
+    />
+    <path
+      d="M 22 215.5 L 22 12 Q 22 12 22 12 L 414 215.5 Q 414 215.5 414 215.5 L 22 419 Q 22 419 22 419 Z"
+      fill-opacity="0.2"
+      fill="#ffffff"
+      stroke="none"
+      pointer-events="all"
+    />
+    <path
+      d="M 22 215.5 L 22 12 Q 22 12 22 12 L 338.12 215.5 Q 338.12 215.5 338.12 215.5 L 22 419 Q 22 419 22 419 Z"
+      fill-opacity="0.5"
+      fill="#ffffff"
+      stroke="none"
+      pointer-events="all"
+    />
+    <path
+      d="M 22 215.5 L 22 12 Q 22 12 22 12 L 262.26 215.5 Q 262.26 215.5 262.26 215.5 L 22 419 Q 22 419 22 419 Z"
+      fill="#ffffff"
+      stroke="none"
+      pointer-events="all"
+    />
+  </g>
+</svg>
